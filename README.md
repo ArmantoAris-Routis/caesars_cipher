@@ -1,0 +1,1 @@
+The famous Caesars Cipher. Made in Ruby in order to test my understanding of the language so far. The user will be asked to input the text that he wishes to encrypt and the amount of spaces that they want the text to be encrypted. Then the program will return a new encripted version of his input.
